@@ -9,6 +9,6 @@ function areaQuadrado(lado){
 return lado**2;
 }
 console.log (areaQuadrado(6));
-let media=function(1+2+3/2)
+let media=function(1+2+3/2){
     return
 }
