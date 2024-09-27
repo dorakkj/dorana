@@ -8,4 +8,4 @@ return num1*num2;
 function areaQuarado(lado){
 return lado**2;
 }
-console.log(areaQuadrado(6));
+console.log (areaQuadrado(6));
