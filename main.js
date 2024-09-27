@@ -8,9 +8,9 @@ return num1*num2;
 function areaQuadrado(lado){
 return lado**2;
 }
-console.log (areaQuadrado(6));
-
 let nome=parseint(prompt('qual o valor?'));
+
+console.log (areaQuadrado(6));
 
 let media=function (x,y,z){
     return(1+2+3)/3;
