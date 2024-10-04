@@ -8,13 +8,9 @@ return num1*num2;
 function areaQuadrado(lado){
 return lado**2;
 }
-let nome=parseint(prompt('qual o valor?'));
-
 console.log (areaQuadrado(6));
-
-let media=function (x,y,z){
+let nome=valoresMedia=(prompt("qual sua nota do primeiro trimestre?"));
+let media=function(x,y,z){
     return(1+2+3)/3;
 }
 console.log(media(1+2+3/3));
-
-
