@@ -33,5 +33,5 @@ if(idade>16){
 console.log("confirmar");
 }
 else{
-    console.log("negado");
+console.log("negado");
 }
