@@ -14,7 +14,7 @@
 //     return(1+2+3)/3;
 // }
 // console.log(media(1+2+3/3));
-let estados=["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","PA","PB","PR","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO",];
+// let estados=["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","PA","PB","PR","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO",];
 
 // let i=0;
 // while(i <27){
@@ -23,7 +23,15 @@ let estados=["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","P
 // i++;
 // }
 
-for(let j=0; j<estados.length; j++){
-console.log(j);
-console.log(estados[j]);
+// for(let j=0; j<estados.length; j++){
+// console.log(j);
+// console.log(estados[j]);
+// }
+
+let idade=32;
+if(idade>16){
+console.log("confirmar");
+}
+else{
+    console.log("negado");
 }
