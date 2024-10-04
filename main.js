@@ -17,7 +17,7 @@
 let estados=["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","PA","PB","PA","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO",];
 
 let i=0;
-while(i <10){
+while(i <27){
 console.log(i);
 console.log(estados[i]);
 i++;
