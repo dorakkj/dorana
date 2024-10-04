@@ -28,7 +28,7 @@
 // console.log(estados[j]);
 // }
 
-let idade=32;
+let idade=valoresMedia=(prompt("qual a sua idade?"));
 if(idade>16){
 console.log("confirmar");
 }
